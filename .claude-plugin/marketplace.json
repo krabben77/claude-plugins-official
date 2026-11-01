@@ -3746,7 +3746,7 @@
         "url": "https://github.com/stackhawk/agent-skills.git",
         "path": "plugins/hawkscan",
         "ref": "main",
-        "sha": "66cac9baa5883a1007575faf1b22855a1124834a"
+        "sha": "ecc998e80a0d81ae27a433ef0882950366d21915"
       },
       "homepage": "https://docs.stackhawk.com/ai-security/"
     },
